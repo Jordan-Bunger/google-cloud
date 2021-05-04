@@ -5,14 +5,14 @@ Notes on Google Cloud
 ## Certifications
 ### Pursuing
 
-- Professional: Data Engineer
+- [Professional Data Engineer](https://cloud.google.com/certification/data-engineer)
 
 ### Complete
 
-NA
+- NA
 
 ## Technologies
-### General
+### Other
 
 - ?
 
